@@ -67,4 +67,4 @@ elif st.sidebar.button("Scatter Plots"):
     ax.set_xlabel(x_axis_column)
     ax.set_ylabel(y_axis_column)
     ax.set_title(f"Scatter Plot of {y_axis_column} vs {x_axis_column}")
-    st.pyplot(fig)
+    st.pyplot(fig)    
