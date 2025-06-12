@@ -21,7 +21,7 @@ MongoDB
 PostgreSQL
 Streamlit
 Plotly
-Tableau
+Tableau 
 Installation
 
 To run this project, you need to install the following packages:
