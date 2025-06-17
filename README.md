@@ -1,72 +1,42 @@
-# Airbnb-Analysis
+# 🏠 Airbnb Analysis
 
-Introduction
+## 📌 Project Overview
 
-Airbnb delves into a comprehensive exploration of Airbnb data. Airbnb has revolutionized the travel and property management industry, making it crucial to analyze its data to gain insights into pricing, availability patterns, and location-based trends. This project employs MongoDB Atlas, Streamlit, and data visualization techniques to provide an in-depth analysis.
+This project analyzes real-world Airbnb listing data to uncover insights about pricing, availability, host behavior, and location-based trends.  
+It uses **MongoDB Atlas** for data storage, **Streamlit** for an interactive web app, and **Plotly** and **Tableau** for clear, engaging visualizations.  
+The goal is to help property owners, hosts, and analysts understand what factors influence Airbnb listings and booking trends.
 
-Table of Contents
+---
 
-Key Technologies and Skills
-Installation
-Usage
-Features
-Contributing
-License
-Contact
-Key Technologies and Skills
+## 📑 Table of Contents
 
-Python
-Pandas
-MongoDB
-PostgreSQL
-Streamlit
-Plotly
-Tableau 
-Installation
+- [Key Technologies and Skills](#key-technologies-and-skills)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Visualizations](#visualizations)
+- [Tableau Dashboard](#tableau-dashboard)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-To run this project, you need to install the following packages:
+---
 
-pip install pandas
-pip install pymongo
-pip install psycopg2
-pip install streamlit 
-pip install plotly
-Usage
+## 🚀 Key Technologies and Skills
 
-To use this project, follow these steps:
-Install the required packages: pip install -r requirements.txt
-Run the Streamlit app: streamlit run app.py
-Features
+- Python
+- Pandas
+- MongoDB Atlas
+- PostgreSQL
+- Streamlit
+- Plotly
+- Tableau
 
-Data Collection and Preprocessing
+---
 
-MongoDB Data Retrieval: Acquire the Airbnb dataset from MongoDB for analysis.
-Handling Null and Duplicate Values: Implement preprocessing techniques to address missing data and duplicates.
-ETL and Dataframes: Perform Extract, Transform, Load (ETL) operations to convert the data into structured dataframes for analysis.
-Streamlit-based EDA (Exploratory Data Analysis)
+## ⚙️ Installation
 
-Interactive Data Exploration: Utilize Streamlit to create a user-friendly, interactive interface for exploring Airbnb data.
-Plotly Charts: Employ plotly charts to visualize key insights and trends in the dataset.
-Features Analysis
+To run this project, install the required packages:
 
-Property Insights: Analyze the total number of properties based on property type, room type, and bed type.
-Stay Duration Analysis: Investigate the minimum and maximum nights guests typically stay.
-Cancellation Policy Impact: Understand the impact of cancellation policies on booking trends.
-Accommodation Metrics: Explore accommodates, bedrooms, and beds-related statistics.
-Review Analysis: Examine total reviews, average review scores, and the distribution of reviews.
-Bathroom and Pricing Analysis: Investigate bathroom count, pricing, cleaning prices, and extra guest charges.
-Guest Inclusion Trends: Analyze the number of guests included in bookings.
-Host Insights: Explore host-related metrics, including host response time, response rate, and the number of properties hosted.
-Geographic Analysis: Investigate the market and country-level distribution of Airbnb listings.
-Availability Trends: Visualize property availability for the next 30, 60, 90, and 360 days.
-Top Host Analysis
-
-Identify and analyze the top 10 hosts based on various features, providing insights into host performance and success.
-
-Visualizations
-
-Utilize Plotly to create interactive and informative visualizations for EDA, making data exploration efficient and insightful.
-
-Tableau Dashboard
-
-Create a comprehensive Tableau dashboard to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
+```bash
+pip install pandas pymongo psycopg2 streamlit plotly
