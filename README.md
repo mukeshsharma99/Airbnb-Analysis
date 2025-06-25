@@ -9,7 +9,7 @@ The goal is to help property owners, hosts, and analysts understand what factors
 ---
 
 ## 📑 Table of Contents
-
+ 
 - [Key Technologies and Skills](#key-technologies-and-skills)  
 - [Installation](#installation)
 - [Usage](#usage)
