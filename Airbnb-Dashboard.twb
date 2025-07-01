@@ -4,7 +4,7 @@
 <workbook original-version='18.1' source-build='2023.2.2 (20232.23.0909.1159)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <document-format-change-manifest>
     <_.fcp.AccessibleZoneTabOrder.true...AccessibleZoneTabOrder />
-    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault /> 
     <AutoCreateAndUpdateDSDPhoneLayouts />
     <Heatmap />
     <IntuitiveSorting />
