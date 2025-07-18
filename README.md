@@ -7,7 +7,7 @@ It uses **MongoDB Atlas** for data storage, **Streamlit** for an interactive web
 The goal is to help property owners, hosts, and analysts understand what factors influence Airbnb listings and booking trends.    
    
 ---
-
+ 
 ## 📑 Table of Contents
    
 - [Key Technologies and Skills](#key-technologies-and-skills)  
