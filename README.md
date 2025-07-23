@@ -1,6 +1,6 @@
 # 🏠 Airbnb Analysis
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This project analyzes real-world Airbnb listing data to uncover insights about pricing, availability, host behavior, and location-based trends.  
 It uses **MongoDB Atlas** for data storage, **Streamlit** for an interactive web app, and **Plotly** and **Tableau** for clear, engaging visualizations.  
