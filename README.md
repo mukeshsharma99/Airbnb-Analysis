@@ -6,7 +6,7 @@ This project analyzes real-world Airbnb listing data to uncover insights about p
 It uses **MongoDB Atlas** for data storage, **Streamlit** for an interactive web app, and **Plotly** and **Tableau** for clear, engaging visualizations.  
 The goal is to help property owners, hosts, and analysts understand what factors influence Airbnb listings and booking trends.       
                                                                               
---- 
+---  
  
 ## 📑 Table of Contents 
    
