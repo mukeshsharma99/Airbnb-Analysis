@@ -27,10 +27,9 @@ The goal is to help property owners, hosts, and analysts understand what factors
 - Python
 - Pandas
 - MongoDB Atlas
-- PostgreSQL
 - Streamlit
 - Plotly
-- Tableau
+- PowerBI
 
 ---
 
